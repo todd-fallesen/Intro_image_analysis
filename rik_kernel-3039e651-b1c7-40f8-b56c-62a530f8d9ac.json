@@ -1,0 +1,1 @@
+{"shell_port": 57497, "iopub_port": 47150, "stdin_port": 48301, "control_port": 41231, "hb_port": 46474, "ip": "127.0.0.1", "key": "e60d8623-7f628af8d1d9a44b85eea02a", "transport": "tcp", "signature_scheme": "hmac-sha256", "kernel_name": "rik_local_crick_hpc_ia"}
